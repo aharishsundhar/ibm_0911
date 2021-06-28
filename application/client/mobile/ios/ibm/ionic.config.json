@@ -1,0 +1,7 @@
+{
+  "name": "ibm",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
